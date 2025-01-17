@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\bin\Debug\net8.0\BCS230068_Phuc.exe
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\bin\Debug\net8.0\BCS230068_Phuc.deps.json
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\bin\Debug\net8.0\BCS230068_Phuc.runtimeconfig.json
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\bin\Debug\net8.0\BCS230068_Phuc.dll
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\bin\Debug\net8.0\BCS230068_Phuc.pdb
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\obj\Debug\net8.0\BCS230068_Phuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\obj\Debug\net8.0\BCS230068_Phuc.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\obj\Debug\net8.0\BCS230068_Phuc.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\obj\Debug\net8.0\BCS230068_Phuc.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\obj\Debug\net8.0\BCS230068_Phuc.dll
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\obj\Debug\net8.0\refint\BCS230068_Phuc.dll
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\obj\Debug\net8.0\BCS230068_Phuc.pdb
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\obj\Debug\net8.0\BCS230068_Phuc.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BCS230068_Phuc\BCS230068_Phuc\obj\Debug\net8.0\ref\BCS230068_Phuc.dll

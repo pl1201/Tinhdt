@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BCS230068_Phuc/1.0.0": {
+        "runtime": {
+          "BCS230068_Phuc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BCS230068_Phuc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
