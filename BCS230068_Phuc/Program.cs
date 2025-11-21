@@ -39,13 +39,14 @@ class Program
         double area = Math.PI * r * r; // Diện tích
         double circumference = 2 * Math.PI * r; // Chu vi
         double diameter = 2 * r; // Đường kính
-
+        double phucloz = Math.PI * r *r *r *1/2;
         // Tạo đối tượng ẩn danh để serialize thành JSON
         var result = new
         {
             dien_tich = Math.Round(area, 2),
             chu_vi = Math.Round(circumference, 2),
-            duong_kinh = Math.Round(diameter, 2)
+            duong_kinh = Math.Round(diameter, 2),
+            the_tich= Math.Round(phucloz, 2)
         };
 
         // Serialize đối tượng thành JSON string
